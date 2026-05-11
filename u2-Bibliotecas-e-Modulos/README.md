@@ -1,21 +1,24 @@
-# Funções em Python
+# Library Management System
 
-Sistema simples de gerenciamento de notas desenvolvido em Python.
+Sistema simples de gerenciamento de livros desenvolvido em Python como atividade prática da disciplina de Linguagem de Programação.
 
 ## Funcionalidades
-- Cadastro de notas
-- Cálculo de média
-- Verificação de aprovação
-- Relatório final
+- Cadastro de livros
+- Listagem de livros
+- Busca de livros por título
+- Geração de gráfico por gênero utilizando Matplotlib
 
 ## Tecnologias utilizadas
 - Python
-- Funções
-- Estruturas condicionais
-- Listas
+- Matplotlib
+- Programação Orientada a Objetos (POO)
 
 ## Objetivo
-Aplicar conceitos básicos de programação utilizando Python.
+Aplicar conceitos de:
+- Classes e objetos
+- Funções
+- Bibliotecas Python
+- Visualização de dados
 
 ## Autor
 Murilo Serafim de Oliveira
